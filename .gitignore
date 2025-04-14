@@ -1,2 +1,3 @@
 # Ignorer les fichers de cache python 
 __pycache__
+.vscode

@@ -49,7 +49,8 @@ Pour cette partie j’ai automatisé l’analyse avec des scripts Python.
 - `src/test.py` : Script pour tester les différents use-case.  
 - `Notebook/` : Folder qui contient notebook dans lequel j'ai analyser tout les données.  
 - `datas/` : Folder dont lequel on stocke les fichiers `.csv` téléchargés en local .  
-- `outputs/` : Folder qui contient les html des cartes de chaleurs.  
+- `outputs/` : Folder qui contient les html des cartes de chaleurs. 
+-  `Pics_for_readme/` : Folder qui contient des images utilisés dans le readme 
 - `requirements.txt` : Liste des librairies Python nécessaires.  
 - `.gitignore` : Exclut les fichiers inutiles à mettre dans le depot distant.  
 - `.gitattributes` : Gestion des gros fichiers avec Git LFS (.csv).  
@@ -139,9 +140,9 @@ https://www.data.gouv.fr/fr/datasets/trajets-realises-en-covoiturage-registre-de
 
 > Pour récupérer l’URL d’un fichier .csv :
 > Clic droit sur le lien du fichier .csv sur le site
-> ![alt text](image.png)
+> ![alt text](Pics_for_readme/image.png)
 > Cliquer sur : Copier le lien vers le fichier
-> ![alt text](image-1.png)
+> ![alt text](Pics_for_readme/image-1.png)
 
 ## Auteur
 

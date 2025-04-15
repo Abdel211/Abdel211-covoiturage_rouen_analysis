@@ -1,3 +1,5 @@
+ # Fichier de config du projet
 
-DATA_PATH = "datas"
-OUTPUT_PATH = "outputs"
+datas_path = "datas"  # Path ou les données telechargées seront stockées
+
+output_path = "outputs" # Path ou la carte de chaleur sera stockés 

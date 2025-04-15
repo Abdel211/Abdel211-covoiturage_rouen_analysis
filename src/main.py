@@ -2,8 +2,8 @@
 
 import sys
 # Import de toute les fonctions 
-from src.data_fetcher import download_data
-from src.data_processing import load_data
+from src.recup_data import download_data
+from src.read_data import load_data
 from src.visualisation import plot_histogram, plot_heatmap
 
 # Code principak
